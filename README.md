@@ -24,3 +24,4 @@ Below is a list of resources I used in constructing this template and kicking of
 * http://iconifier.net/
 * http://www.pearsonified.com/typography/
 * http://css-tricks.com/almanac/properties/t/text-rendering/
+* http://fontello.com/
