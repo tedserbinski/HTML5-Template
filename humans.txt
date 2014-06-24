@@ -1,0 +1,18 @@
+# http://humanstxt.org/
+
+
+/* TEAM */
+
+  Developer & Designer: Ted Serbinski
+  Contact: hi@tedserbinski.com
+  Twitter: @tedserbinski
+  Location: Detroit, Michigan, USA
+
+
+/* SITE */
+
+  Last update: 2014/06/24
+  Standards: HTML5, CSS3, microdata, microformats
+  Components: Jekyll, PureCSS, jQuery
+  Hosting: AWS S3
+  Software: Mac, Atom, Fireworks
