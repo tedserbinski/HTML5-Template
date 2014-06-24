@@ -4,7 +4,7 @@ This is the HTML 5 template I use when starting new sites. It has a heavy focus 
 
 It is currently deployed on my [tedserbinski.com](http://tedserbinski.com).
 
-Below is a list of resources I used in constructing this template. I also use many when I start new projects and keep this as a good reference point.
+Below is a list of resources I used in constructing this template and kicking of new website projects.
 
 # Resources
 
