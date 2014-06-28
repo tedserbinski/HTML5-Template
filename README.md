@@ -20,8 +20,24 @@ Below is a list of resources I used in constructing this template and kicking of
 * http://www.google.com/webmasters/tools/richsnippets
 * http://microformats.org/wiki/validators
 
+## Frameworks
+* http://usablica.github.io/front-end-frameworks/compare.html
+* http://neat.bourbon.io/
+* http://bitters.bourbon.io/
+* http://purecss.io/
+* http://getbootstrap.com/
+* http://foundation.zurb.com/
+
+## Design Patterns
+* http://pea.rs
+* http://refills.bourbon.io/
+
+## Templates
+* http://html5boilerplate.com/
+* http://html5up.net/
+
 ## Misc
 * http://iconifier.net/
+* http://fontello.com/
 * http://www.pearsonified.com/typography/
 * http://css-tricks.com/almanac/properties/t/text-rendering/
-* http://fontello.com/
