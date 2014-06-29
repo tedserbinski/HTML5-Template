@@ -8,7 +8,7 @@
 
   <title>Ted's HTML5 Template</title>
   <meta name="author" content="Ted Serbinski">
-  <meta name="description" content="A HTML5 template optimized for clarity and SEO.">
+  <meta name="description" content="A HTML5 template optimized for mobile, SEO, and semantic markup.">
   <meta name="copyright" content="&copy; 2006-2014 Ted Serbinski">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="cleartype" content="on">
@@ -19,7 +19,9 @@
   <link rel="canonical" href="http://tedserbinski.com/">
   <link rel="stylesheet" href="assets/css/style.css?v=1.0">
 
-  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
   <!-- Windows 8: see http://msdn.microsoft.com/en-us/library/ie/dn255024%28v=vs.85%29.aspx for details -->
   <meta name="application-name" content="Ted Serbinski">
@@ -48,7 +50,7 @@
 
 <body>
   <header id="masthead">
-    <!--HOMEPAGE USE H1 only -->
+    <!-- USE H1 ON HOMEPAGE ONLY -->
     <h4><a href="/">Ted Serbinski</a></h4>
     <nav id="headernav" role="navigation">
       <ul>
@@ -76,7 +78,7 @@
         <blockquote>Optio cumque nihil impedit quo minus id quod maxime placeat facere</blockquote>
         <p>Enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
 
-        <figure class="u-photo center">
+        <figure class="u-photo center" itemprop="image">
           <img src="http://placehold.it/750x350">
           <figcaption>Id est laborum et dolorum fuga</figcaption>
         </figure>
@@ -90,7 +92,7 @@
       <footer class="e-footer">
         Tweet &amp; Subscribe Links
         <br>
-        <a href="/" rel="bookmark" title="permalink" class="u-url">
+        <a href="/" rel="bookmark" title="permalink" class="u-url" itemprop="url">
           <time class="dt-published" itemprop="datePublished" datetime="2014-06-24 01:45:00 -0800">06 Jun 2014</time>
         </a>
         <br>
@@ -104,7 +106,7 @@
   </main>
 
   <aside>
-    <h2>Sidebar content</h2>
+    <h4>Sidebar content</h4>
   </aside>
 
   <footer id="footer">
