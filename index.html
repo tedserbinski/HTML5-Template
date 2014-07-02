@@ -65,7 +65,7 @@
     </nav>
   </header>
 
-  <main role="main">
+  <main role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
 
     <article class="h-entry" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
       <header>
@@ -97,7 +97,7 @@
           <time class="dt-published" itemprop="datePublished" datetime="2014-06-24 01:45:00 -0800">06 Jun 2014</time>
         </a>
         <br>
-        <a href="/" class="p-category">tag 1</a>, <a href="/" class="p-category">tag 2</a>
+        <a href="/" class="p-category" rel="tag">tag 1</a>, <a href="/" class="p-category" rel="tag">tag 2</a>
       </footer>
       <section class="p-comment" itemprop="comment">
         DISQUS
@@ -106,7 +106,7 @@
 
   </main>
 
-  <aside>
+  <aside role="complementary">
     <h4>Sidebar content</h4>
   </aside>
 
