@@ -18,6 +18,7 @@ Below is a list of resources I used in constructing this template and kicking of
 * http://microformats.org/wiki/h-entry
 * http://www.google.com/webmasters/tools/richsnippets
 * http://microformats.org/wiki/validators
+* http://gregrickaby.com/schema-org-example-markup/
 
 ## Frameworks
 * http://usablica.github.io/front-end-frameworks/compare.html
