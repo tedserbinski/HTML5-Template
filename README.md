@@ -37,8 +37,15 @@ Below is a list of resources I used in constructing this template and kicking of
 * https://github.com/murtaugh/HTML5-Reset
 * http://html5boilerplate.com/
 
+## Typography
+* http://basehold.it/
+* http://www.pearsonified.com/typography/
+* https://drewish.com/tools/vertical-rhythm/
+* http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/
+* http://24ways.org/2006/compose-to-a-vertical-rhythm/
+* http://mikeyanderson.com/optimal_characters_per_line
+* http://css-tricks.com/almanac/properties/t/text-rendering/
+
 ## Misc
 * http://iconifier.net/
 * http://fontello.com/
-* http://www.pearsonified.com/typography/
-* http://css-tricks.com/almanac/properties/t/text-rendering/
